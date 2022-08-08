@@ -13,9 +13,9 @@
 #*.png binary
 #*.jpg binary
 ###
-#*.deploy    binary
-#*.manifest  binary
-#*.vsto      binary
+*.deploy    binary
+*.manifest  binary
+*.vsto      binary
 ##
-* binary
-*.html text
+#* binary
+#*.html text
